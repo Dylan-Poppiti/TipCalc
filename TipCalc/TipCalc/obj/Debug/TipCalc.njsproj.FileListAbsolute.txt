@@ -1,0 +1,2 @@
+C:\Users\yuoen\source\repos\TipCalc\TipCalc\obj\Debug\TipCalc.njsprojAssemblyReference.cache
+C:\Users\yuoen\source\repos\TipCalc\TipCalc\bin\Microsoft.NodejsTools.WebRole.dll

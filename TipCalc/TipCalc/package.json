@@ -1,0 +1,9 @@
+{
+  "name": "tip-calc",
+  "version": "0.0.0",
+  "description": "TipCalc",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
